@@ -30,19 +30,19 @@ Format: CSV / Excel
 
 Contains:
 
-Employee status (Active, Hired, Terminated)
+- Employee status (Active, Hired, Terminated)
 
-Gender and age
+- Gender and age
 
-Education level (High School, Bachelor’s, Master’s, PhD)
+- Education level (High School, Bachelor’s, Master’s, PhD)
 
-Department and job role
+- Department and job role
 
-Performance ratings
+- Performance ratings
 
-Salary information
+- Salary information
 
-Location and hire date
+- Location and hire date
 
 The dataset was cleaned, standardized, and structured before visualization to ensure accuracy and effective analysis.
 
@@ -57,33 +57,33 @@ Tableau calculated fields, filters, and actions
 📈 Dashboard Sections
 🔹 Overview
 
-Total active employees
+- Total active employees
 
-Hiring vs termination trends
+- Hiring vs termination trends
 
-Department-wise workforce distribution
+- Department-wise workforce distribution
 
-Geographic employee distribution by state
+- Geographic employee distribution by state
 
 🔹 Demographics
 
-Gender distribution
+- Gender distribution
 
-Education levels by age group
+- Education levels by age group
 
-Education vs performance comparison
+- Education vs performance comparison
 
-Workforce diversity insights
+- Workforce diversity insights
 
 🔹 Income Analysis
 
-Salary comparison by education & gender
+- Salary comparison by education & gender
 
-Age vs average salary
+- Age vs average salary
 
-Role-based salary trends
+- Role-based salary trends
 
-Identification of higher-paying roles
+- Identification of higher-paying roles
 
 🎛️ Interactivity
 
@@ -103,15 +103,15 @@ Dynamic insights based on user selections
 
 🔍 Key Insights (Sample)
 
-Majority of employees hold a Bachelor’s degree
+- Majority of employees hold a Bachelor’s degree
 
-Gender distribution is relatively balanced
+- Gender distribution is relatively balanced
 
-Managerial roles show higher average salaries
+- Managerial roles show higher average salaries
 
-Performance ratings vary by education level
+- Performance ratings vary by education level
 
-Workforce concentration is higher in select U.S. states
+- Workforce concentration is higher in select U.S. states
 
 (Insights update dynamically based on filters.)
 
