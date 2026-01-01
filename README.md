@@ -89,13 +89,13 @@ Tableau calculated fields, filters, and actions
 
 Global filters:
 
-Gender
+- Gender
 
-Employee status
+- Employee status
 
-Location
+- Location
 
-Hire date
+- Hire date
 
 Click-to-filter enabled across visualizations
 
