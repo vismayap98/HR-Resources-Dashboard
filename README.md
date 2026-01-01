@@ -8,17 +8,17 @@ The dashboard helps HR teams and leadership monitor workforce health, identify t
 
 🎯 Business Objectives
 
-Monitor active employees, hiring, and termination trends
+- Monitor active employees, hiring, and termination trends
 
-Analyze workforce demographics (gender, age, education)
+- Analyze workforce demographics (gender, age, education)
 
-Understand department-wise employee distribution
+- Understand department-wise employee distribution
 
-Evaluate performance ratings across education levels
+- Evaluate performance ratings across education levels
 
-Explore salary patterns by age, role, and gender
+- Explore salary patterns by age, role, and gender
 
-Enable flexible analysis using interactive filters
+- Enable flexible analysis using interactive filters
 
 🗂️ Dataset
 
