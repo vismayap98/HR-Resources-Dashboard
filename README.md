@@ -1,5 +1,7 @@
 📊 Human Resources Analytics Dashboard (Tableau)
+
 📌 Project Overview
+
 This project is an interactive Human Resources Analytics Dashboard built using Tableau, designed to provide a holistic view of employee data across hiring, attrition, demographics, performance, and compensation.
 The dashboard helps HR teams and leadership monitor workforce health, identify trends, and support data-driven people decisions through intuitive visualizations and filters.
 
